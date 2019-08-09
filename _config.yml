@@ -1,0 +1,8 @@
+title: Jedford Seculles
+description: I am the Engineering Lead at SourcePad.
+google_analytics: UA-66883559-2
+show_downloads: true
+theme: jekyll-theme-tactile
+
+gems:
+  - jekyll-mentions
